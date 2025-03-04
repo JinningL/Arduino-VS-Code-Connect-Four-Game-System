@@ -76,6 +76,11 @@ This project integrates **Arduino** and **VS Code (C++)** to create a **Connect 
 6. Press **`*`** to exit the game.
 
 ---
+## 🎥 Demo Video
+
+[## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 📂 Files Included
 - `game.cpp` (VS Code C++ logic)
