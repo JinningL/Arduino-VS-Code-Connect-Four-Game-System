@@ -89,10 +89,5 @@ This project integrates **Arduino** and **VS Code (C++)** to create a **Connect 
 
 ---
 
-## 🙌 Author
-Designed by **liujinning** with support from ChatGPT.
-
----
-
 ## 📅 Version
 **v1.0 - March 2025**
